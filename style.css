@@ -26,8 +26,8 @@ flex-direction: column;
     /* align-items: center; */
 }
 .centrando{
-    width: 1010px;
-    /* height: 400px; */
+    width: 1010px; 
+     height: 500px;
     display: flex;
     flex-direction: column;
     justify-content:space-around;
@@ -37,6 +37,7 @@ flex-direction: column;
     display: flex;
     flex-direction: row;
     justify-content: space-between;
+    
 }
 .inicio-p{
     display: flex;
